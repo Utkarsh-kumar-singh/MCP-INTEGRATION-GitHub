@@ -1,0 +1,15 @@
+# GitHub Enterprise MCP Server
+
+This file was created using the create_file MCP tool.
+
+## Purpose
+
+- Test GitHub API integration
+- Test MCP tool execution
+- Test PostgreSQL logging
+
+## Author
+
+Utkarsh Kumar Singh
+
+This file confirms that the create_file tool is working successfully.
